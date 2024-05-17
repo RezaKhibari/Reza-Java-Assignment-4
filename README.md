@@ -1,13 +1,13 @@
 # Reza-Java-Assignment-4
 for assignment 4  I used these tasks:
 
-*stockUp*
+## stockUp: ##
 
 1- add a close account (sell all stocks)   
 
 2- add a withdrawl method (opposite of deposit)
 
-*Warsim*
+## Warsim: ##
 
 1- implement a surrender option   
 
